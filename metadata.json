@@ -1,0 +1,5 @@
+{
+  "name": "BeatSphere",
+  "description": "A next-generation 3D music reactive player with immersive particle visualizations.",
+  "requestFramePermissions": []
+}
